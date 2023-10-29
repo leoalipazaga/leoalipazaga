@@ -15,6 +15,7 @@
 <h2>⚡️ Projects</h2>
 <ul>
   <li><a href="https://astro-tesla-clone.netlify.app/">Tesla Clone</a>: I build a tesla clone with Astro, one  of my favorite frameworks.</li>
+  <li><a href="https://github.com/leoalipazaga/tictactoe-astro-solid">Tic Tac Toe</a>: I built the classic game cross and noughts. Feel free to enjoy.</li>
 </ul>
 
 ---
